@@ -1,2 +1,1 @@
-# movie-seat-booking
-movie-seat-booking
+# Movie Seat Booking
